@@ -1,5 +1,5 @@
 name: in_app_logview
-description: A Flutter package that displays real-time application logs within a debug build, featuring a console-like UI with filtering, search, and integration with popular logging packages.
+description: In-app real-time log viewer for Flutter debug builds.
 version: 0.1.0
 homepage: https://github.com/NemiKardani/in_app_logview.git
 repository: https://github.com/NemiKardani/in_app_logview.git
