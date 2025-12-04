@@ -379,7 +379,7 @@ Created with ❤️ for the Flutter community.
 
 ## Support
 
-If you encounter any issues or have questions, please file an issue on the [GitHub repository](https://github.com/yourusername/in_app_logview).
+If you encounter any issues or have questions, please file an issue on the [GitHub repository](https://github.com/NemiKardani/in_app_logview.git).
 
 ## License
 
